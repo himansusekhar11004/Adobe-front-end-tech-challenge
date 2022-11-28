@@ -1,0 +1,48 @@
+.card-top-view{
+	width: auto;
+	height: auto;
+	background: rgba(0,0,0,.1);
+	color: #fff;
+	margin: 0px auto auto auto;
+	border-bottom: 1px solid hsla(0,0%,100%,.4);;
+	padding: 40px 0px;
+}
+.apply-button-div{
+	background-image: linear-gradient(93deg,#f5b648,#f9cd7f 52%,#e9ab41);
+	font-size: 14px;
+	font-weight: 500;
+	width: 100px;
+	height: 40px;
+	display: flex;
+	border-radius: 2px;
+	cursor: pointer;
+	color: #121728 ;
+	text-decoration: none;
+	margin-left: auto;
+}
+
+.apply-button-div:hover{
+	cursor: pointer;
+	background: rgba(0,0,0,.1);
+	border: 1px solid #e4ad4e;
+	color: #e4ad4e;
+}
+
+/* .card-top-view>div{
+	margin: 5px auto;
+} */
+.card-title{
+	font-size: 18px;
+	color: #e4ad4e;
+}
+
+.card-title-values{
+	font-size: 16px;
+}
+.card-desc { 
+	margin: auto;
+	flex-basis: 40%;
+}
+.card-desc > div {
+	margin: 4% auto;
+}

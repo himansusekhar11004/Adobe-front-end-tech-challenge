@@ -1,0 +1,29 @@
+body{
+    background: rgb(18, 23, 40);
+    margin: 0;
+    font-family: 'Roboto'
+}
+
+.MuiFormLabel-root{
+    color: #ffffff !important;
+    font-size: 14px !important;
+}
+
+.MuiSelect-icon{
+    color: #ffffff !important;
+}
+
+.MuiInput-underline::after{
+    border-bottom: 2px solid #ffffff !important;
+}
+
+.MuiInput-underline::before{
+    border-bottom: 2px solid #ffffff !important;
+}
+.MuiInputBase-root{
+    color: #ffffff !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked{
+    color: darkblue !important;
+}
